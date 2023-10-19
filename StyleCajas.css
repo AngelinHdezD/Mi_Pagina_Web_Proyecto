@@ -1,0 +1,56 @@
+
+body{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(221, 211, 207);
+    opacity: 0.95;
+    text-align: center justify;
+    padding: 20;
+    border: 5px solid black;
+    font-family: Copperplate, sans-serif;
+
+
+}
+.encabezado{
+    background-color: rgb(95, 56, 56);
+            text-align: center;
+            color: white;
+            padding: 1px,0;
+            margin: 0;
+}
+h1,h4{
+    margin: 0;
+    padding: 1px 0;
+    color: rgb(219, 195, 174);
+
+}
+.navbar-nav .dropdown-menu {
+    background-color:  rgb(219, 195, 174); /* Cambia "#007BFF" al color deseado */
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h6,h2{
+    margin: 0;
+    padding: 0.2px 0;
+    color: rgb(219, 195, 174);
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    width: 200%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.col-lg {
+    background-color: rgb(95, 56, 56);
+    text-align: center;
+    padding: 20px;
+    flex: 1;
+}
